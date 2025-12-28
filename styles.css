@@ -168,7 +168,6 @@ footer {
         flex-wrap: nowrap;
         gap: 10px;
         justify-content: center;
-        margin-bottom: 10px;
     }
     .fototweekerst img:nth-child(1) {
         max-width: 47%;
